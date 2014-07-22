@@ -213,3 +213,16 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+.idea/.name
+.idea/cv_current.iml
+.idea/encodings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+template_new.aux
+template_new.aux
+template_new.pdf
+template_new.out
+template_new.synctex.gz
